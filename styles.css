@@ -1,0 +1,25 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: #FFEFAA;
+}
+
+.app {
+	color: #006DF0;
+}
+
+p {
+	font-size: 20px;	
+}
+
+input[type="text"] {
+	color: #006DF0;
+}
+
+.pic {
+	margin-top: 70px;
+}
